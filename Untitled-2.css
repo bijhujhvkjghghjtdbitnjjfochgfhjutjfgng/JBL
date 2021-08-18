@@ -1,0 +1,10 @@
+.sign{
+    border: 10px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    background: #fffefe;
+}
+
+.sign figcaption{
+    margin: 0 auto 5px;
+}
